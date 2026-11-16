@@ -120,13 +120,19 @@ body {
     gap: 12px;
 }
 
+/* Author Container */
 .avatar-img {
     width: 32px;
     height: 32px;
 }
 
+/* Author name */
 .avatar-name {
-    align-items: center;
+    font-size: 14px;
+    font-weight: 800;
+
+    color: hsl(0, 0%, 7%);
+    margin-bottom: 0;
 }
 
 /* Footer */
